@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="left">Conhecimento em alguma frameworks e linguagens como:</h2>
+<h2 align="left">Conhecimento em algumas frameworks e linguagens como:</h2>
 
 ###
 
