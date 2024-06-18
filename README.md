@@ -13,8 +13,14 @@
 <p align="left">✨ Sou um profissional dedicado e apaixonado pela área de Qualidade de Software (QA), em constante busca de crescimento e relevância no setor. Com sólida experiência na elaboração e execução de testes, possuo um conjunto robusto de habilidades técnicas e interpessoais que me permitem entregar resultados de alta qualidade em projetos de desenvolvimento de software.</p>
 
 <br>
+<!-- <a 
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 
+</a> -->
+
+<a href="https://www.linkedin.com/in/lucrecio-junior-307293247/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
 ###
 
 <h2 align="left">Conhecimento em algumas frameworks e linguagens como:</h2>
