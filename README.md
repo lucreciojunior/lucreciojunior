@@ -24,7 +24,7 @@
 
 <div align="left">
   
-  <img src="https://arctouch.com/wp-content/uploads/2021/02/robot-framework-test-automation-blog-1536x864.png" height="40" alt="robot framework"  />
+  <img src="https://www.svgrepo.com/show/374049/robotframework.svg" height="40" alt="robot framework"  />
   <img width="12" />
   <img src="https://img.jsdelivr.com/github.com/cypress-io.png" height="40" alt="cypress"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png" height="40" alt="Selenium"/>
